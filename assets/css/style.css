@@ -9,7 +9,7 @@ body {
 }
 
 .banner {
-    background: url(../img/fachada-matheus-presentes-mobile.png) no-repeat center top / cover;
+    background: url(../img/fachada-matheus-presentes-mobile.png) no-repeat center top / contain;
     width: 100%;
     height: 150px;
 }
